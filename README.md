@@ -2,6 +2,7 @@
 This project analyzes employee data to uncover insights into job performance, satisfaction, promotion timelines, overtime trends, and overall workplace engagement using Power BI.
 
 **Key Features**
+
 **1. Demographic Analysis**
 Analyzes the workforce composition across age groups, gender, and marital status to understand diversity and demographic trends within the organization.
 
@@ -17,5 +18,7 @@ Evaluates performance trends, promotion timelines, and overtime distribution by 
 To analyze employee data for identifying patterns in job satisfaction, performance, compensation, and engagement; supporting HR in making informed, data-driven decisions to enhance employee experience and organizational growth.
 
 **Tools Used:**
+
 **Power BI:** Data modeling, DAX, and interactive dashboards
+
 **Microsoft Excel:** Data cleaning and preprocessing
