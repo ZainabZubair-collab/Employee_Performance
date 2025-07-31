@@ -24,7 +24,8 @@ To analyze employee data for identifying patterns in job satisfaction, performan
 
 **Microsoft Excel:** Data cleaning and preprocessing
 
-<img width="1130" height="636" alt="Conclusion" src="https://github.com/user-attachments/assets/3df7aff1-b36e-422d-bffd-bb81bf60bd1b" />
+<img width="1122" height="632" alt="Introduction" src="https://github.com/user-attachments/assets/ed9ceb3d-039e-49f1-95e8-6d7621c72f3b" />
+
 <img width="1130" height="637" alt="Demographic" src="https://github.com/user-attachments/assets/bcb921b7-9d48-4b47-88c0-7ba7279c45be" />
 
 <img width="1127" height="637" alt="Department and Role" src="https://github.com/user-attachments/assets/c93a309f-c34b-4ccd-8b75-64a99f91a0ca" />
